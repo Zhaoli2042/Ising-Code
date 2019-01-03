@@ -12,7 +12,7 @@ double min(double a, double b);
 double r2();
 int main()
 /* because static memory doesn't support variable size of arrays, 
-(F*CK THIS COMPILER) here we let size to be a number, 
+(UHHHHH) here we let size to be a number, 
 remember to change the number, if you want to change the size of the lattice,
 also change count*/
 {
