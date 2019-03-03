@@ -1,3 +1,4 @@
 Idea about Applying CUDA to accelerate Ising Model MC simulations
 NOW IT IS A NAIVE VERSION.
 type "nvcc CUDA_Ising.cu" to compile the code
+An Excel sheet is also added for comparison of CPU Ising and CUDA Ising absolute average magnetization vs reduced temperature.
