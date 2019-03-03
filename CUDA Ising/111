@@ -1,1 +1,3 @@
 Idea about Applying CUDA to accelerate Ising Model MC simulations
+NOW IT IS A NAIVE VERSION.
+type "nvcc CUDA-ISING.cu" to compile the code
